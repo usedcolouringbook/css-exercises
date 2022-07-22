@@ -1,0 +1,17 @@
+/* Button A is color: white, bg-color: black; Button B is color:black, bg-color: yellow; */
+/* have same font, both are buttons */
+
+.aye{
+    color: white;
+    background-color: black;
+}
+
+.bee {
+    background-color: yellow;
+}
+
+.aye, 
+.bee {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
